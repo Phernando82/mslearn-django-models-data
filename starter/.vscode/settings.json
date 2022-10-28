@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e5cc6f25-75a2-478c-9097-663a8b8876cf/AppServices/subscriptions/e5cc6f25-75a2-478c-9097-663a8b8876cf/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/shelter-dogs",
+    "appService.deploySubpath": "."
+}
